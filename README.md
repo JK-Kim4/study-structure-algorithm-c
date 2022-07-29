@@ -6,3 +6,4 @@
 - 자료 구조와 알고리즘 학습 정리
 
 1. [day 1] 알고리즘이란 : https://prickle-antelope-8ba.notion.site/00-eda79c2a9d1043bb94898c765ee621a4
+2. [day 2] 소수알고리즘 : https://prickle-antelope-8ba.notion.site/02-7f3ea0e8e46c4781b3d98813377f991f
