@@ -8,3 +8,4 @@
 1. [day 1] 알고리즘이란 : https://prickle-antelope-8ba.notion.site/00-eda79c2a9d1043bb94898c765ee621a4
 2. [day 2] 소수알고리즘 : https://prickle-antelope-8ba.notion.site/02-7f3ea0e8e46c4781b3d98813377f991f
 3. [day 3] C++         : https://prickle-antelope-8ba.notion.site/03-C-9c5a8d3c0a494bb48ae6ba2849738452
+4. [day 4] String class : https://prickle-antelope-8ba.notion.site/04-String-eeab5fd389cd4e3a86a7e841534df282
