@@ -10,4 +10,5 @@
 3. [day 3] C++         : https://prickle-antelope-8ba.notion.site/03-C-9c5a8d3c0a494bb48ae6ba2849738452
 4. [day 4] String class : https://prickle-antelope-8ba.notion.site/04-String-eeab5fd389cd4e3a86a7e841534df282
 5. [day 5] 배열 & 미로 탐색 : https://prickle-antelope-8ba.notion.site/05-2b287668a7aa456f8aee65252b699ba6
-6. [day 6] 최단경로 탐색 : https://prickle-antelope-8ba.notion.site/05-940d7964f69f407998467cdc97a7fe1e
+6. [day 5-2] 최단경로 탐색 : https://prickle-antelope-8ba.notion.site/05-940d7964f69f407998467cdc97a7fe1e
+7. [day 6] 연결 리스트 : https://prickle-antelope-8ba.notion.site/06-affd3e4c950a491f93c417b724245047
