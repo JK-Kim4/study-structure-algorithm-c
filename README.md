@@ -12,4 +12,4 @@
 5. [day 5] 배열 & 미로 탐색 : https://prickle-antelope-8ba.notion.site/05-2b287668a7aa456f8aee65252b699ba6
 6. [day 5-2] 최단경로 탐색 : https://prickle-antelope-8ba.notion.site/05-940d7964f69f407998467cdc97a7fe1e
 7. [day 6] 연결 리스트 : https://prickle-antelope-8ba.notion.site/06-affd3e4c950a491f93c417b724245047
-8. [day 6-2] 다중 연결 리스트 : https://prickle-antelope-8ba.notion.site/06-1-dcdb16b79026494cb9beb2dd99767b3c
+8. [day 6-2]  연결 리스트 : https://prickle-antelope-8ba.notion.site/06-1-dcdb16b79026494cb9beb2dd99767b3c
