@@ -4,6 +4,8 @@
 
 - 학습 영상 & 자료 : https://www.inflearn.com/course/c-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard
 - 자료 구조와 알고리즘 학습 정리
+- C++ 수업 정리 : https://prickle-antelope-8ba.notion.site/C-c9fb8d57a23d47e38769af8ad9d543d2
+  - 기존 참고 영상을 통하여 C++ 문법 학습에 어려움이 있어 방송통신대 2학기 C++ 수업 학습 병행
 
 1. [day 1] 알고리즘이란 : https://prickle-antelope-8ba.notion.site/00-eda79c2a9d1043bb94898c765ee621a4
 2. [day 2] 소수알고리즘 : https://prickle-antelope-8ba.notion.site/02-7f3ea0e8e46c4781b3d98813377f991f
@@ -14,5 +16,5 @@
 7. [day 6] 연결 리스트 : https://prickle-antelope-8ba.notion.site/06-affd3e4c950a491f93c417b724245047
 8. [day 6-2] 이중 연결 리스트 : https://prickle-antelope-8ba.notion.site/06-1-dcdb16b79026494cb9beb2dd99767b3c
 9. [day 7] 스택과 큐
- - 7.1 스택 : https://prickle-antelope-8ba.notion.site/07-1-bd29cd6e23e7432daeca3e271d0a04d4
- - 7.2 큐 : 
+   - 7.1 스택 : https://prickle-antelope-8ba.notion.site/07-1-bd29cd6e23e7432daeca3e271d0a04d4
+   - 7.2 큐 : 
