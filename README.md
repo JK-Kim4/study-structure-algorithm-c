@@ -13,4 +13,6 @@
 6. [day 5-2] 최단경로 탐색 : https://prickle-antelope-8ba.notion.site/05-940d7964f69f407998467cdc97a7fe1e
 7. [day 6] 연결 리스트 : https://prickle-antelope-8ba.notion.site/06-affd3e4c950a491f93c417b724245047
 8. [day 6-2] 이중 연결 리스트 : https://prickle-antelope-8ba.notion.site/06-1-dcdb16b79026494cb9beb2dd99767b3c
-9. [day 7] 스택과 큐 : https://prickle-antelope-8ba.notion.site/07-f91f144f2a0644a2b0212de455d9fe58
+9. [day 7] 스택과 큐
+10.  7.1 스택 : https://prickle-antelope-8ba.notion.site/07-1-bd29cd6e23e7432daeca3e271d0a04d4
+11.  7.2 큐 : 
