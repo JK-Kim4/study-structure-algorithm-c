@@ -17,4 +17,4 @@
 8. [day 6-2] 이중 연결 리스트 : https://prickle-antelope-8ba.notion.site/06-1-dcdb16b79026494cb9beb2dd99767b3c
 9. [day 7] 스택과 큐
    - 7.1 스택 : https://prickle-antelope-8ba.notion.site/07-1-bd29cd6e23e7432daeca3e271d0a04d4
-   - 7.2 큐 : 
+   - 7.2 큐 : https://prickle-antelope-8ba.notion.site/07-2-7402539249f74d57a731654a555f4bcf
